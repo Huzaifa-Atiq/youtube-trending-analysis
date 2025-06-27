@@ -7,7 +7,7 @@ This project explores the **YouTube Trending Video Dataset (Canada)** using Pyth
 ## 📁 Dataset
 
 - Source: Kaggle — [Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new)
-- Focused on: `CAvideos.csv` (Canada)
+- Focused on: `CAvideos.csv`,`CA_category_id.json` (Canada)
 - Contains data like:
   - Video title, channel, views, likes, category, comment status, etc.
 
