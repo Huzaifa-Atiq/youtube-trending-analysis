@@ -40,13 +40,3 @@ This project explores the **YouTube Trending Video Dataset (Canada)** using Pyth
 ---
 
 
-
----
-
-## ✅ Summary
-
-This project showcases how real-world data can be analyzed and visualized to uncover insights into digital content trends. It also serves as an example of using Python and Jupyter notebooks to present a full data science workflow — from data loading to storytelling.
-
----
-
-
